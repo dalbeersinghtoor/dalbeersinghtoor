@@ -20,9 +20,6 @@ With **17+ years of experience**, I specialize in building **scalable, high-perf
 💡 I’m always open to **collaborations, open-source contributions, and discussions** on cutting-edge technologies. Let's connect!  
 
 📫 **Find me online:**  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📝 [Medium Blog](https://medium.com/@yourprofile)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 🌐 [Portfolio](https://yourwebsite.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dalbeer-singh-sr-lead-engineer-ba95301b4/) 
 
 💖 **Let’s build something amazing together!** 
